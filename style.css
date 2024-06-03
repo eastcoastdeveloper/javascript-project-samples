@@ -1,0 +1,140 @@
+html,
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+#html-table {
+  min-width: 650px;
+}
+.masthead {
+  display: grid;
+  padding: 0 10px;
+  margin: 10px 0;
+  grid-template-columns: calc(100% - 200px) 200px;
+  height: 25px;
+}
+.masthead h4 {
+  margin: 0;
+  line-height: 25px;
+}
+.masthead input {
+  height: 100%;
+  width: 100%;
+  font: normal 14px sans-serif;
+  display: block;
+  box-sizing: border-box;
+  border-radius: 4px;
+  border: 1px solid #313b3f;
+  outline: none;
+}
+
+.masthead .search {
+  width: 200px;
+  position: relative;
+}
+
+.masthead .clear {
+  border: 1px solid black;
+  display: none;
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  right: 4px;
+  transform: translateY(-50%);
+  padding: 1px 3px;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+.enable-clear {
+  display: block !important;
+}
+
+.masthead input::placeholder {
+  font: normal 13px sans-serif;
+}
+
+main {
+  overflow-x: auto;
+}
+.headers,
+.tble-rows {
+  display: grid;
+  grid-template-columns: 200px 270px auto;
+  padding: 5px 0;
+}
+.tble-rows {
+  text-decoration: none;
+  color: black;
+}
+.tble-rows:nth-child(odd) {
+  background-color: lightgrey;
+}
+.tble-rows:hover {
+  background-color: #333;
+  color: white;
+  cursor: pointer;
+}
+.tble-rows:hover a {
+  color: white;
+  text-decoration: none;
+}
+.tble-cells {
+  padding: 5px 10px;
+  line-height: 21px;
+}
+.headers {
+  font-weight: 600;
+  cursor: pointer;
+}
+.headers > div {
+  padding: 5px 10px;
+}
+
+#html-table {
+  font-family: sans-serif;
+  font-size: 13px;
+  display: table;
+  width: 100%;
+  max-width: 768px;
+  margin: 50px auto 20px auto;
+}
+.caret {
+  transform: rotate(180deg);
+  display: inline-block;
+  font-size: 10px;
+  margin-left: 5px;
+}
+footer {
+  background-color: #313b3f;
+  color: #d9a74a;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  box-sizing: border-box;
+  font: normal 14px sans-serif;
+  bottom: 0;
+}
+.website {
+  font: normal 14px sans-serif;
+  z-index: 1;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  top: 0;
+  letter-spacing: 0.5px;
+  display: block;
+  cursor: pointer;
+  background-color: #313b3f;
+  padding: 10px;
+  overflow: auto;
+}
+.website a {
+  text-decoration: none;
+  color: #d9a74a;
+  float: right;
+}
+.website span {
+  color: #d9a74a;
+}

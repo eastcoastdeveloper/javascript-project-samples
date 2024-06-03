@@ -1,0 +1,550 @@
+{
+  "projects": [
+    {
+      "title": "HTML Table",
+      "description": "Native JS, JSON powered, responsive table w/ sorting & filtering.",
+      "url": "https://stackblitz.com/edit/table-in-html",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "html table, css, javascript, data table, json"
+    },
+    {
+      "title": "JSON Accordion",
+      "description": "JSON powered Angular accordion w/ different layouts.",
+      "url": "https://stackblitz.com/edit/angular-accordion-json",
+      "technologies": "Angular",
+      "tags": "angular, json accordion"
+    },
+    {
+      "title": "Form Validation",
+      "description": "Angular form validation w/ error handling.",
+      "url": "https://stackblitz.com/edit/form-angular",
+      "technologies": "Angular",
+      "tags": "angular, form validation"
+    },
+    {
+      "title": "Slider",
+      "description": "JSON powered Angular slider.",
+      "url": "https://stackblitz.com/edit/angular-slider-json",
+      "technologies": "Angular",
+      "tags": "angular, slider"
+    },
+    {
+      "title": "Date Picker Component",
+      "description": "Angular/ TypeScript date picker. Easily convert to JavaScript.",
+      "url": "https://stackblitz.com/edit/datepicker-angular-component",
+      "technologies": "Angular",
+      "tags": "angular, date picker"
+    },
+    {
+      "title": "Bar Chart",
+      "description": "D3 Bar Chart.",
+      "url": "https://stackblitz.com/edit/d3-bar-chart",
+      "technologies": "D3",
+      "tags": "bar chart, graph, d3"
+    },
+    {
+      "title": "Background Image",
+      "description": "Background image options.",
+      "url": "https://stackblitz.com/edit/html-background-image",
+      "technologies": "HTML & CSS",
+      "tags": "html, css, background image"
+    },
+    {
+      "title": "HTML Template",
+      "description": "Responsive HTML template w/ flexible grid system and asyncronously loaded imagery.",
+      "url": "https://stackblitz.com/edit/template-html",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "html template, css, javascript, website, site"
+    },
+    {
+      "title": "Data Table",
+      "description": "JSON powered Angular data table w/ pagination.",
+      "url": "https://stackblitz.com/edit/angular-table-pagination-json",
+      "technologies": "Angular",
+      "tags": "angular data table"
+    },
+    {
+      "title": "Angular Dropdown Component",
+      "description": "Angular/ TypeScript drop down component.",
+      "url": "https://stackblitz.com/edit/angular-dropdown-menu-component",
+      "technologies": "Angular",
+      "tags": "angular, drop down, dropdown"
+    },
+    {
+      "title": "Mock Login",
+      "description": "Mock user login w/ drop down.",
+      "url": "https://stackblitz.com/edit/angular-mock-login",
+      "technologies": "Angular",
+      "tags": "angular, mock login, drop down, dropdown"
+    },
+    {
+      "title": "Email Template",
+      "description": "Email template.",
+      "url": "https://stackblitz.com/edit/email-html-template",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "html, css, javascript, email template"
+    },
+    {
+      "title": "In Page Navigation",
+      "description": "Angular in page navigation.",
+      "url": "https://stackblitz.com/edit/in-page-navigation",
+      "technologies": "Angular",
+      "tags": "angular, in page navigation"
+    },
+    {
+      "title": "Dynamic Sidebar",
+      "description": "JSON, Angular/ TypeScript sidebar w/ optional drop downs.",
+      "url": "https://stackblitz.com/edit/angular-dynamic-sidebar",
+      "technologies": "Angular",
+      "tags": "angular, sidebar, json"
+    },
+    {
+      "title": "Hacker News App",
+      "description": "Hacker News API built w/ React. Search for new items.",
+      "url": "https://stackblitz.com/edit/react-http-get",
+      "technologies": "React",
+      "tags": "react, api, hackernews, hacker news, get request"
+    },
+    {
+      "title": "Data Table",
+      "description": "JSON React data table w/ expandable rows, loader, and error component.",
+      "url": "https://stackblitz.com/edit/react-data-table-component",
+      "technologies": "React",
+      "tags": "react, data table"
+    },
+    {
+      "title": "Expandable Table Rows",
+      "description": "HTML & JavaScript expandable table rows.",
+      "url": "https://stackblitz.com/edit/expandable-table-rows-js",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "angular, expandable table"
+    },
+    {
+      "title": "Event Emitter",
+      "description": "Two Angular components speaking to each other w/ Chart.js graph and JSON table.",
+      "url": "https://stackblitz.com/edit/angular-eventemitter-example",
+      "technologies": "Angular",
+      "tags": "angular, event emitter, chart.js, chartjs"
+    },
+    {
+      "title": "Media Query",
+      "description": "TypeScript media query.",
+      "url": "https://stackblitz.com/edit/angular-8-media-querie",
+      "technologies": "Angular",
+      "tags": "angular, media query"
+    },
+    {
+      "title": "Node/ Axios GET HTTPS",
+      "description": "Node GET request.",
+      "url": "https://stackblitz.com/edit/nodejs-https",
+      "technologies": "Node",
+      "tags": "node, axios, get request"
+    },
+    {
+      "title": "Area Chart",
+      "description": "Chart.js area chart.",
+      "url": "https://stackblitz.com/edit/angular-8-area-chart",
+      "technologies": "Chart.js",
+      "tags": "area chart, graph, chart.js, chartjs"
+    },
+    {
+      "title": "Countdown Timer",
+      "description": "TypeScript countdown timer.",
+      "url": "https://stackblitz.com/edit/angular-countdown-timer-component",
+      "technologies": "Angular",
+      "tags": "angular, typescript, countdown, timer, count down"
+    },
+    {
+      "title": "Multi Line Chart",
+      "description": "Chart.js multi line chart with TypeScript.",
+      "url": "https://stackblitz.com/edit/chartjs-multi-line-chart",
+      "technologies": "Chart.js",
+      "tags": "angular, json accordion, multiline, multi line, chart, chart.js"
+    },
+    {
+      "title": "Custom Line Chart",
+      "description": "Custom designed Chart.js line chart.",
+      "url": "https://stackblitz.com/edit/chart-with-js",
+      "technologies": "Chart.js",
+      "tags": "angular, custom line chart, graph, chart.js, chartjs"
+    },
+    {
+      "title": "Modal",
+      "description": "Angular animated modal that adds/ removes itself from DOM.",
+      "url": "https://stackblitz.com/edit/angular-modal-mock",
+      "technologies": "Angular",
+      "tags": "angular, modal"
+    },
+    {
+      "title": "Services",
+      "description": "Rudimentary examples of services.",
+      "url": "https://stackblitz.com/edit/services-in-angular",
+      "technologies": "Angular",
+      "tags": "angular, services"
+    },
+    {
+      "title": "Routing Between Modules",
+      "description": "Modular navigation, lazy loading.",
+      "url": "https://stackblitz.com/edit/angular-routing-between-modules",
+      "technologies": "Angular",
+      "tags": "angular, routing, modules"
+    },
+    {
+      "title": "To Do List",
+      "description": "Add and remove items from the DOM.",
+      "url": "https://stackblitz.com/edit/react-list-item-app",
+      "technologies": "React",
+      "tags": "react, json accordion, to do list"
+    },
+    {
+      "title": "Window Width",
+      "description": "TypeScript window width.",
+      "url": "https://stackblitz.com/edit/angular-8-window-width",
+      "technologies": "Angular",
+      "tags": "angular, window width"
+    },
+    {
+      "title": "Weather Component",
+      "description": "Openweather API component.",
+      "url": "https://stackblitz.com/edit/angular-weather-component",
+      "technologies": "Angular",
+      "tags": "angular, open weather, api"
+    },
+    {
+      "title": "Calculator",
+      "description": "Calculator",
+      "url": "https://stackblitz.com/edit/angular-calculator-component",
+      "technologies": "Angular",
+      "tags": "angular, typescript, calculator"
+    },
+    {
+      "title": "Doughnut Chart Component",
+      "description": "Chart.js doughnut using TypeScript.",
+      "url": "https://stackblitz.com/edit/doughnut-chart-component",
+      "technologies": "Chart.js",
+      "tags": "angular, json accordion, chartjs, chart.js, graph, doughnut"
+    },
+    {
+      "title": "Bar Chart",
+      "description": "Interactive bar chart UI.",
+      "url": "https://stackblitz.com/edit/chartjs-bar-chart",
+      "technologies": "Chart.js",
+      "tags": "angular, bar chart, graph, chartjs, chart.js"
+    },
+    {
+      "title": "Generator",
+      "description": "JavaScript generator example.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/ExMbEKZ",
+      "technologies": "JavaScript",
+      "tags": "javascript, generator"
+    },
+    {
+      "title": "Profile Panel",
+      "description": "Toggle profile panel via animation.",
+      "url": "https://stackblitz.com/edit/angular-profile-panel-toggle",
+      "technologies": "Angular",
+      "tags": "angular, profile panel"
+    },
+    {
+      "title": "String Conversion",
+      "description": "JavaScript string conversion.",
+      "url": "https://stackblitz.com/edit/string-conversion",
+      "technologies": "JavaScript",
+      "tags": "javascript, string conversion"
+    },
+    {
+      "title": "Nested Routing",
+      "description": "Child rounting/ nested routing.",
+      "url": "https://stackblitz.com/edit/angular-8-nested-routing",
+      "technologies": "Angular",
+      "tags": "angular, routing, modules"
+    },
+    {
+      "title": "Resolver",
+      "description": "Load content after payload success via a resolver.",
+      "url": "https://stackblitz.com/edit/angular-resolver-mock",
+      "technologies": "Angular",
+      "tags": "angular, resolver"
+    },
+    {
+      "title": "Node Express App",
+      "description": "Node/ Express app w/ custom pagination and server side rendering.",
+      "url": "https://stackblitz.com/edit/node-express-app",
+      "technologies": "Node",
+      "tags": "node, express, pagination"
+    },
+    {
+      "title": "Banner Template",
+      "description": "Old school web banner template with countdown timer.",
+      "url": "https://stackblitz.com/edit/banner-template",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "angular, banner"
+    },
+    {
+      "title": "Drag & Drop",
+      "description": "JavaScript & TypeScript drag and drop UI.",
+      "url": "https://stackblitz.com/edit/drag-and-drop-javascript",
+      "technologies": "TypeScript & JavaScript",
+      "tags": "angular, drag and drop, drag & drop, typescript, javascript"
+    },
+    {
+      "title": "Drop Down Menu",
+      "description": "Dynamic drop down menu.",
+      "url": "https://stackblitz.com/edit/javascript-dropdown-menu",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "drop down menu, dropdown, javascript"
+    },
+    {
+      "title": "Multiple Fetch Requests",
+      "description": "Node sequential fetching.",
+      "url": "https://stackblitz.com/edit/node-fetch-multiple-requests",
+      "technologies": "Node",
+      "tags": "node, multiple fetch requests, get request"
+    },
+    {
+      "title": "Floating Buttons",
+      "description": "Buttons that float above the fold, then scroll with the footer.",
+      "url": "https://stackblitz.com/edit/javascript-action-buttons",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "javascript, buttons"
+    },
+    {
+      "title": "Node Angular Template Website",
+      "description": "Massive Angular template website with a Node API.",
+      "url": "https://github.com/eastcoastdeveloper/angular-template-website",
+      "technologies": "Angular",
+      "tags": "angular template website, website, typescript, node, express, api"
+    },
+    {
+      "title": "Last FM API",
+      "description": "Last FM API UI.",
+      "url": "https://github.com/eastcoastdeveloper/React-Last-FM",
+      "technologies": "React",
+      "tags": "angular, api, last fm, react"
+    },
+    {
+      "title": "Light Dark Mode",
+      "description": "Toggle between light and dark mode with React.",
+      "url": "https://github.com/eastcoastdeveloper/react-light-mode-dark-mode",
+      "technologies": "React",
+      "tags": "react, light dark mode"
+    },
+    {
+      "title": "Supabase App",
+      "description": "Full stack React app using Supabase.",
+      "url": "https://github.com/eastcoastdeveloper/react-supabase",
+      "technologies": "React",
+      "tags": "react, supabase"
+    },
+    {
+      "title": "OMDB API",
+      "description": "OMDB API UI. Choose movies, TV shows, characters, etc.",
+      "url": "https://github.com/eastcoastdeveloper/OMDB-API",
+      "technologies": "Angular",
+      "tags": "angular, typescript, api, omdb"
+    },
+    {
+      "title": "NASA Photo of the Day",
+      "description": "NASA Photo of the Day API in an elegant UI.",
+      "url": "https://github.com/eastcoastdeveloper/nasa-photo-of-the-day",
+      "technologies": "Angular",
+      "tags": "angular, nasa, api, photo of the day, apod"
+    },
+    {
+      "title": "Video Player",
+      "description": "Basic video player/ gallery.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/LmxqKa",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "video player, html5, javascript"
+    },
+    {
+      "title": "Responsive Carousel",
+      "description": "Native JS responsive carousel.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/WyxvbP",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "html, css, javascript, carousel"
+    },
+    {
+      "title": "JavaScript Tabs",
+      "description": "Tabs.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/yzejjQ",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "javascript, tabs, css"
+    },
+    {
+      "title": "3D CSS Animation",
+      "description": "One div animating over another to reveal itself in 3D space.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/jGYXYy",
+      "technologies": "HTML & CSS",
+      "tags": "css, html, animation"
+    },
+    {
+      "title": "CSS Drop Down Nav",
+      "description": "Creative drop down with only CSS.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/VMwxmQ",
+      "technologies": "HTML & CSS",
+      "tags": "css, dropdown, drop down menu"
+    },
+    {
+      "title": "Openweather Map Demo",
+      "description": "Openweather API component.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/aVJQVJ",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "html, css, javascript, api, open weather"
+    },
+    {
+      "title": "User Selection",
+      "description": "Select options via a slider.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/ZXYLyV",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "jquery, html, css, javascript"
+    },
+    {
+      "title": "In Page Navigation",
+      "description": "In page navigation with JavaScript.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/JjogojN",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "in page navigation, html, css, javascript"
+    },
+    {
+      "title": "Tabs to Accordion",
+      "description": "Tabs that convert to an accordion.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/ExVjrXE",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "tabs, accordion"
+    },
+    {
+      "title": "D3 Bar Chart",
+      "description": "Bar chart using D3",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/MWbwPzm",
+      "technologies": "D3",
+      "tags": "d3, bar chart, javascript"
+    },
+    {
+      "title": "Matrix Navigation",
+      "description": "Navigate a matrix with only JavaScript.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/poYwNxN",
+      "technologies": "JavaScript",
+      "tags": "javascript, matrix"
+    },
+    {
+      "title": "Max Character Count",
+      "description": "JavaScript challenge to count characters.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/LYaJeOp",
+      "technologies": "JavaScript",
+      "tags": "javascript, challenge, max character count"
+    },
+    {
+      "title": "Dynamic Buttons",
+      "description": "Dynamically generated buttons.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/LdRMJb",
+      "technologies": "JavaScript",
+      "tags": "dynamic buttons, javascript"
+    },
+    {
+      "title": "JavaScript Class",
+      "description": "JS class examples.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/jOJGgez",
+      "technologies": "JavaScript",
+      "tags": "javascript class"
+    },
+    {
+      "title": "Async Await",
+      "description": "See how easy async await is.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/PoLOozL",
+      "technologies": "JavaScript",
+      "tags": "javascript, async await"
+    },
+    {
+      "title": "Closure",
+      "description": "Clean closure example.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/ExMbEeb",
+      "technologies": "JavaScript",
+      "tags": "javascript closure"
+    },
+    {
+      "title": "Sequential Fetches",
+      "description": "JS sequential fetching.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/bGZYGbJ",
+      "technologies": "JavaScript",
+      "tags": "javascript, sequential fetches, get request"
+    },
+    {
+      "title": "CSS Button",
+      "description": "Button with a neat hover effect.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/rNzNLoE",
+      "technologies": "HTML & CSS",
+      "tags": "css button, hover"
+    },
+    {
+      "title": "JavaScript Challenge",
+      "description": "JavaScript challenge...",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/MWxqgba",
+      "technologies": "JavaScript",
+      "tags": "javascript challenge"
+    },
+    {
+      "title": "Promises",
+      "description": "JavaScript promises example.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/YzgboJq",
+      "technologies": "JavaScript",
+      "tags": "javascript promises"
+    },
+    {
+      "title": "Interactive Columns",
+      "description": "Interactive columns that hide and reveal content.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/KKvKMYb",
+      "technologies": "HTML, CSS, & JavaScript",
+      "tags": "html, css, javascript, interactive columns"
+    },
+    {
+      "title": "JavaScript Prototype",
+      "description": "JavaScript prototype mock.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/jOJGgZY",
+      "technologies": "JavaScript",
+      "tags": "javascript prototype"
+    },
+    {
+      "title": "JavaScript Call",
+      "description": "JS call example.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/abMLydP",
+      "technologies": "JavaScript",
+      "tags": "javascript call"
+    },
+    {
+      "title": "Dynamic Event Listeners",
+      "description": "Dynamically generated listeners.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/PoLXYPm",
+      "technologies": "HTML & JavaScript",
+      "tags": "event listener, javascript"
+    },
+    {
+      "title": "Sorting",
+      "description": "Demonstrating JS sorting.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/NWJVZmY",
+      "technologies": "JavaScript",
+      "tags": "javascript, sort"
+    },
+    {
+      "title": "Class Inheritance",
+      "description": "Demonstrating JS class inheritance.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/RwdZEYp",
+      "technologies": "JavaScript",
+      "tags": "class inheritance, javascript"
+    },
+    {
+      "title": "JavaScript Apply",
+      "description": "Demonstrating JS apply",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/poYdyJQ",
+      "technologies": "JavaScript",
+      "tags": "javascript, apply"
+    },
+    {
+      "title": "Event Propagation",
+      "description": "Demonstrating event propagation.",
+      "url": "https://codepen.io/eastcoastdeveloper/pen/mdMWajp",
+      "technologies": "JavaScript",
+      "tags": "javascript, event propagation"
+    }
+  ]
+}
